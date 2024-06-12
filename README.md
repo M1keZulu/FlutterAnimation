@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+Group: 20K-0157 Qasim, 20K-1731 Zain, 20K-0201 Owais
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
